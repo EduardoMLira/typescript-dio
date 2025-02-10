@@ -29,8 +29,8 @@ Apenas contas com o status true podem fazer empréstimo
 
 Esta conta não deve receber novos atributos
 Esta conta terá um método de depósito, que acresce 10 a mais ao valor informado para depósito. (Ex: Um depósito de 100, será de 110 no final)
-[ ] Todos os atributos de qualquer conta devem ser privados
+[X] Todos os atributos de qualquer conta devem ser privados
 
-[ ] Os atributos name e accountNumber não podem ser alterados internamente ou externamente
+[X] Os atributos name e accountNumber não podem ser alterados internamente ou externamente
 
-[ ] Criar instancias para cada um dos tipos de conta no app.ts e executar os métodos possíveis.
+[X] Criar instancias para cada um dos tipos de conta no app.ts e executar os métodos possíveis.
