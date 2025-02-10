@@ -1,5 +1,4 @@
 Desenvolvendo o Dio Bank
-desenvolvido por Nathally Souza
 
 Projeto desenvolvido com conceitos básicos de typescript
 Tecnologias
